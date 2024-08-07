@@ -1,6 +1,8 @@
 # XiaomiRouter-R4AC-Firmware
-This is the firmware for Xiaomi Router 4A 100Mbps version, which includes Breed, OpenWrt, Padavan
-——————————————————————————————————————————————————————————————————————————————————————————————————————
+This is the firmware for Xiaomi Router 4A 100Mbps version, which includes Breed, OpenWrt, Padavan  
+
+
+
 这是一个自用的小米路由器4A百兆版本的固件仓库。由于为了满足ZJU学校内网，本仓库包含小米路由器相关固件和刷机包。
 ## 清单
 + OpenWRT
